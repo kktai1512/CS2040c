@@ -1,0 +1,9 @@
+8
+player1 3 3 3
+ben 6 6 6
+adam 6 6 6
+player4 2 2 2
+player5 1 1 1
+player6 4 4 4
+obama 8 8 8
+boom 8 8 8

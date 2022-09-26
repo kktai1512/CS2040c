@@ -1,0 +1,1 @@
+ cout << "inserting " << dist[v] <<  "v " << v <<endl;
